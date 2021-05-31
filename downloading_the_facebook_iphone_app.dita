@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="downloading_the_facebook_iphone_app">
+    <title>Downloading the Facebook iPhone App</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To download the App, Search Facebook on the Apple AppStore.</cmd>
+            </step>
+            <step>
+                <cmd>Tap this (cloud with down arrow) button to begin downloading the App.</cmd>
+            </step>
+            <step>
+                <cmd>When the download is complete, Press the Open button or locate and tap the
+                    Facebook icon on the iPhone screen. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
